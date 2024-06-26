@@ -1,6 +1,9 @@
 {
-    "httpApi": {
-      "enabled": true
+  "httpApi": {
+    "enabled": true,
+    "auth": {
+      "username": "default",
+      "password": "KVijvGD3F5wt"
     }
   }
-  
+}
